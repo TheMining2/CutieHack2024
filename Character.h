@@ -8,6 +8,7 @@ class Character{
 
   public:
     Character();
+    int hp = 100;
 };
 
 #endif
